@@ -3,23 +3,21 @@ input {
     padding: 10px;
     border-style: none;
     margin: 2px;
-    
 }
 body {
     background: hsl(0, 0%, 18.82%);
     font-family: sans-serif;
+    
 }
 button{
     padding: 10px;
     border-radius: 10px;
     border-style: none;
     cursor: pointer;
-
 }
 p {
     color:white;
-    
-    font-size: 20px;
+    font-size: +20px;
 }
 h1{
     color: white;
