@@ -1,0 +1,22 @@
+input {
+    border-radius: 10px;
+    padding: 10px;
+    border-style: none;
+
+    
+}
+body {
+    background: hsl(0, 0%, 18.82%);
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    cursor: pointer;
+
+}
+p {
+    color:white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
