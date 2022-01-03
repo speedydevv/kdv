@@ -7,6 +7,7 @@ input {
 }
 body {
     background: hsl(0, 0%, 18.82%);
+    font-family: sans-serif;
 }
 button{
     padding: 10px;
@@ -17,6 +18,9 @@ button{
 }
 p {
     color:white;
-    font-family: sans-serif;
+    
     font-size: 20px;
+}
+h1{
+    color: white;
 }
